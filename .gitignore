@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Liberator.Sequaliser/bin
+/Liberator.Sequaliser/obj
+/Liberator.SequaliserTests/bin
+/Liberator.SequaliserTests/obj
